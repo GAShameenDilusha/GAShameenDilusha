@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/shameen dilusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shameen dilusha" height="30" width="40" /></a>
 <a href="https://fb.com/shameen dilusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shameen dilusha" height="30" width="40" /></a>
 <a href="https://instagram.com/shameen dilusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shameen dilusha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shameen dilusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shameen dilusha" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/shameen dilusha](https://youtube.com/@ShameenDilusha?si=19frwIRdA7apM7xn)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shameen dilusha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
